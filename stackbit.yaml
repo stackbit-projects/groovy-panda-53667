@@ -220,7 +220,7 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: ''
-        type: string
+        type: html
   portfolio:
     type: page
     urlPath: /portfolio
