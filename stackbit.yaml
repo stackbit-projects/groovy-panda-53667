@@ -182,6 +182,7 @@ models:
         label: help
         description: аааааааааааа
         default: 'true'
+        required: true
   blog:
     type: page
     urlPath: /blog
