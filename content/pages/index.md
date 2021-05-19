@@ -11,13 +11,6 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      <https://time.graphics/ru/embed?v=1&id=508715>
-    type: content_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
