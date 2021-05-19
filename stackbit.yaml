@@ -222,6 +222,8 @@ models:
       - name: HELP
         type: html
         label: f
+        description: f
+        default: 'true'
   portfolio:
     type: page
     urlPath: /portfolio
