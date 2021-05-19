@@ -180,6 +180,7 @@ models:
       - name: ржу ору
         type: html
         label: помогите
+        description: аааааааааааа
   blog:
     type: page
     urlPath: /blog
