@@ -181,6 +181,7 @@ models:
         type: html
         label: помогите
         description: аааааааааааа
+        default: '1'
   blog:
     type: page
     urlPath: /blog
