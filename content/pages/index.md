@@ -12,6 +12,11 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     actions: []
+  - title: ''
+    description: ''
+    robots: []
+    extra: []
+    type: stackbit_page_meta
   - label: lorem-ipsum
     url: '#'
     style: link
