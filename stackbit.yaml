@@ -181,7 +181,7 @@ models:
         type: html
         label: help
         description: аааааааааааа
-        default: '1'
+        default: '8'
         const: '2'
   blog:
     type: page
