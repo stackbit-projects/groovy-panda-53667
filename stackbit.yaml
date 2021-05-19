@@ -177,7 +177,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ржу ору
+      - name: help
         type: html
         label: помогите
         description: аааааааааааа
