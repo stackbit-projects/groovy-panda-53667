@@ -811,7 +811,7 @@ models:
         name: label
         label: Label
         required: true
-      - type: string
+      - type: html
         name: url
         label: URL
         required: true
