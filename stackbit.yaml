@@ -179,7 +179,7 @@ models:
         label: Seo
       - name: help
         type: html
-        label: помогите
+        label: help
         description: аааааааааааа
         default: '1'
         const: '1'
