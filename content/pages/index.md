@@ -35,6 +35,13 @@ sections:
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
+  - label: lorem-ipsum
+    url: '#'
+    style: link
+    icon: dribbble
+    new_window: false
+    no_follow: false
+    type: action
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
