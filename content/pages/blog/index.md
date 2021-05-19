@@ -1,6 +1,6 @@
 ---
 title: Journal
-subtitle: 'News, tips and highlights'
+subtitle: 'News, tips and highlights<body>'
 hide_title: false
 col_number: three
 seo:
