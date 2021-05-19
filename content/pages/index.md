@@ -14,17 +14,16 @@ sections:
     actions: []
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      \<iframe width="100%" height="400"
+      src="https://[time.graphics/ru/embed?v=1\&id=508715](https://vk.com/away.php?to=http%3A%2F%2Ftime.graphics%2Fru%2Fembed%3Fv%3D1%26id%3D508715\&cc_key=)"
+      frameborder="0" allowfullscreen>\</iframe>
 
+      \<div>\<a style="font-size: 12px; text-decoration: none;" title="Office
+      timeline"
+      href="https://[time.graphics](https://vk.com/away.php?to=http%3A%2F%2Ftime.graphics\&cc_key=)">Office
+      timeline\</a>\</div>
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions:
       - label: lorem-ipsum
         url: '#'
