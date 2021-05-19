@@ -153,6 +153,12 @@ models:
         label: Title
         description: The title of the page
         required: true
+      - name: help
+        type: html
+        label: help
+        description: аааааааааааа
+        default: 'true'
+        required: true
       - type: boolean
         name: hide_title
         label: Hide page title
@@ -177,12 +183,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: help
-        type: html
-        label: help
-        description: аааааааааааа
-        default: 'true'
-        required: true
   blog:
     type: page
     urlPath: /blog
