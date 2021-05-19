@@ -181,8 +181,7 @@ models:
         type: html
         label: help
         description: аааааааааааа
-        default: '88'
-        const: '88'
+        default: 'true'
   blog:
     type: page
     urlPath: /blog
