@@ -182,6 +182,8 @@ models:
         label: help
         description: аааааааааааа
         default: 'true'
+      - name: ''
+        type: string
   blog:
     type: page
     urlPath: /blog
