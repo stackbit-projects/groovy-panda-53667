@@ -178,6 +178,7 @@ models:
             - posts_section
             - testimonials_section
             - form_section
+            - action
       - type: model
         name: seo
         models:
