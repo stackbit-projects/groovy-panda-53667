@@ -182,7 +182,7 @@ models:
         label: help
         description: аааааааааааа
         default: '1'
-        const: '1'
+        const: '2'
   blog:
     type: page
     urlPath: /blog
