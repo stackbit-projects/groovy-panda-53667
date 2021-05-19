@@ -179,6 +179,7 @@ models:
         label: Seo
       - name: ржу ору
         type: html
+        label: помогите
   blog:
     type: page
     urlPath: /blog
