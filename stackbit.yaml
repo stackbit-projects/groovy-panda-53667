@@ -179,6 +179,7 @@ models:
             - testimonials_section
             - form_section
             - action
+            - stackbit_page_meta
       - type: model
         name: seo
         models:
