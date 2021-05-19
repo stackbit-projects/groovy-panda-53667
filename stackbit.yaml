@@ -219,8 +219,9 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: HELP
         type: html
+        label: f
   portfolio:
     type: page
     urlPath: /portfolio
