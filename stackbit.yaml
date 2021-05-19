@@ -177,13 +177,13 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+      - name: ''
+        type: string
       - name: help
         type: html
         label: help
         description: аааааааааааа
         default: 'true'
-      - name: ''
-        type: string
   blog:
     type: page
     urlPath: /blog
